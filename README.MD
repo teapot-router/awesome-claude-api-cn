@@ -1,5 +1,12 @@
 # Claude API 服务目录与接入核对
 
+## Practical guides / 实操入口
+
+- [证据核对与选择方法 / Methodology](docs/methodology.md)
+- [结构化服务目录 / Service records](data/services.json)
+- [贡献证据模板 / Contribution template](templates/service-evidence.md)
+
+
 更新：2026-10-12。本项目由 Crazyrouter 相关维护者维护，包含本站及第三方服务入口，不是独立性能排名。
 
 ## Crazyrouter 当前接入信息

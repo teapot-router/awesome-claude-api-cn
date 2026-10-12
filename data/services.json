@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "unknown_policy": "null means not checked, not unsupported",
+  "services": [
+    {
+      "name": "Crazyrouter",
+      "homepage": "https://crazyrouter.com",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "maintainer-affiliated",
+      "evidence_level": "documented-and-minimal-request-tested",
+      "protocols": [
+        "Chat Completions",
+        "Responses",
+        "Anthropic Messages",
+        "Gemini generateContent"
+      ],
+      "cache_billing": "Model/account/TTL specific; see live pricing and usage records",
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://docs.crazyrouter.com",
+        "https://crazyrouter.com/api/pricing",
+        "https://github.com/xujfcn/claude-opus-4.5-gpt-5.2/blob/main/evidence/connectivity-2026-10-12.json"
+      ]
+    },
+    {
+      "name": "LemonData",
+      "homepage": "https://lemondata.cc/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://lemondata.cc/"
+      ]
+    },
+    {
+      "name": "OpenRouter",
+      "homepage": "https://openrouter.ai/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://openrouter.ai/"
+      ]
+    },
+    {
+      "name": "AIHubMix",
+      "homepage": "https://aihubmix.com/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://aihubmix.com/"
+      ]
+    },
+    {
+      "name": "ZenMux",
+      "homepage": "https://zenmux.ai/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://zenmux.ai/"
+      ]
+    },
+    {
+      "name": "DDS Hub（呆呆兽）",
+      "homepage": "https://www.ddshub.cc/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://www.ddshub.cc/"
+      ]
+    },
+    {
+      "name": "IKunCode",
+      "homepage": "https://api.ikuncode.cc/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://api.ikuncode.cc/"
+      ]
+    },
+    {
+      "name": "Unity2.Ai",
+      "homepage": "https://unity2.ai/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://unity2.ai/"
+      ]
+    },
+    {
+      "name": "AIGoCode",
+      "homepage": "https://www.aigocode.com/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://www.aigocode.com/"
+      ]
+    },
+    {
+      "name": "YesCode",
+      "homepage": "https://co.yes.vg/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://co.yes.vg/"
+      ]
+    },
+    {
+      "name": "AICoding",
+      "homepage": "https://aicoding.sh/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://aicoding.sh/"
+      ]
+    },
+    {
+      "name": "EasyRouter",
+      "homepage": "https://easyrouter.io/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://easyrouter.io/"
+      ]
+    },
+    {
+      "name": "B.AI",
+      "homepage": "https://b.ai/",
+      "entry_reviewed_at": "2026-10-12",
+      "relationship": "third-party",
+      "evidence_level": "link-only",
+      "protocols": null,
+      "cache_billing": null,
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://b.ai/"
+      ]
+    }
+  ]
+}
