@@ -190,6 +190,24 @@
       "sources": [
         "https://b.ai/"
       ]
+    },
+    {
+      "name": "TeapotRouter",
+      "homepage": "https://teapotrouter.com/",
+      "entry_reviewed_at": "2026-10-27",
+      "relationship": "provider-affiliated",
+      "evidence_level": "provider-claim",
+      "protocols": [
+        "Anthropic Messages",
+        "Chat Completions"
+      ],
+      "cache_billing": "Usage-based; per-model pricing and per-request cost records published at https://teapotrouter.com/api/pricing",
+      "rate_limits": null,
+      "data_terms": null,
+      "sources": [
+        "https://teapotrouter.com/",
+        "https://teapotrouter.com/api/pricing"
+      ]
     }
   ]
 }
