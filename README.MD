@@ -38,6 +38,7 @@
 | AICoding | [https://aicoding.sh/](https://aicoding.sh/) | 以当前目录、账单规则与条款为准 |
 | EasyRouter | [https://easyrouter.io/](https://easyrouter.io/) | 以当前目录、账单规则与条款为准 |
 | B.AI | [https://b.ai/](https://b.ai/) | 以当前目录、账单规则与条款为准 |
+| TeapotRouter | [https://teapotrouter.com/](https://teapotrouter.com/) | 以当前目录、账单规则与条款为准 |
 
 ## 选择前检查
 
